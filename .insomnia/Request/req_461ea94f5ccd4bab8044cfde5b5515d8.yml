@@ -1,0 +1,36 @@
+_id: req_461ea94f5ccd4bab8044cfde5b5515d8
+type: Request
+parentId: wrk_6b5a5cc8c0c84a13b5e4e224025c300a
+modified: 1674594936974
+created: 1674592304348
+url: "{{ _.url }}upload-category-banner"
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_578b77bbcd9149c58d89120d364809d3
+      name: image
+      value: ""
+      description: ""
+      type: file
+      fileName: /home/renier/Pictures/pexels-cup.jpg
+      disabled: false
+    - id: pair_db973eac9f834fdca2c68f23059672de
+      name: category_id
+      value: "3"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1674592304348
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

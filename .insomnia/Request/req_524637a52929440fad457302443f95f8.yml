@@ -1,0 +1,21 @@
+_id: req_524637a52929440fad457302443f95f8
+type: Request
+parentId: wrk_6b5a5cc8c0c84a13b5e4e224025c300a
+modified: 1674597597778
+created: 1674585324561
+url: "{{ _.url }}featured-categories"
+name: Get Featured Categories
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1674585324561
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

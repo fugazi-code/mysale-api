@@ -1,0 +1,28 @@
+_id: req_07c3afdbc5134b21a831edfdca12e2de
+type: Request
+parentId: wrk_6b5a5cc8c0c84a13b5e4e224025c300a
+modified: 1674587399834
+created: 1674506614129
+url: "{{ _.url }}preview-image?path=product-default.png"
+name: Get Image
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1674506614129
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

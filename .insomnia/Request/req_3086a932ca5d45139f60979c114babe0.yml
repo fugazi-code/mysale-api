@@ -1,0 +1,21 @@
+_id: req_3086a932ca5d45139f60979c114babe0
+type: Request
+parentId: wrk_6b5a5cc8c0c84a13b5e4e224025c300a
+modified: 1674506584556
+created: 1674506551215
+url: "{{ _.url }}cities"
+name: Get Cities
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1674506551215
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

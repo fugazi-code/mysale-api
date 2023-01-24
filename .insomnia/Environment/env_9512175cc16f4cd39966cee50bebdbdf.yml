@@ -1,0 +1,14 @@
+_id: env_9512175cc16f4cd39966cee50bebdbdf
+type: Environment
+parentId: env_45ec2eb5b79860bee35e7c9dcbdbd94a4def69cd
+modified: 1674506487645
+created: 1674504755079
+name: Local
+data:
+  url: http://mysale-backend.test/api/
+dataPropertyOrder:
+  "&":
+    - url
+color: null
+isPrivate: false
+metaSortKey: 1674504755079
